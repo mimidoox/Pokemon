@@ -23,4 +23,4 @@
 
 ## Usage
 
-#### When you open the application, you will see a list of Pokémon. You can filter the list by clicking on the filter button and selecting a Pokémon type. #### Clicking on a Pokémon in the list will take you to a detail view with more information about the selected Pokémon.
+##### When you open the application, you will see a list of Pokémon. You can filter the list by clicking on the filter button and selecting a Pokémon type. Clicking on a Pokémon in the list will take you to a detail view with more information about the selected Pokémon.
