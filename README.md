@@ -1,6 +1,6 @@
 ## Pokémon List Android Application
 
-####This Android application allows you to view a list of Pokémon and their basic information. The application retrieves data from an HTTP API to display the list.
+#### This Android application allows you to view a list of Pokémon and their basic information. The application retrieves data from an HTTP API to display the list.
 
 ## Features
 
@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-####To run this application, you will need to have the following:
+#### To run this application, you will need to have the following:
 
 ##### Android Studio installed on your computer
 ##### An Android device or emulator running Android 5.0 or higher
